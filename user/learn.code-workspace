@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "D:/WorkSpace/Javascript/learn"
+		},
+		{
+			"path": "../../WebCuaToi"
+		},
+		{
+			"path": "../../web_project"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_dacs1"
+	}
+}
